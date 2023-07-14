@@ -16,5 +16,5 @@ function generateMarkdown(data) {
 
 `;
 }
-
+generateMarkdown()
 module.exports = generateMarkdown;
