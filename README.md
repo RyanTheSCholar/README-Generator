@@ -1,6 +1,6 @@
 # README-Generator
-- WalkThrough link
-https://youtu.be/qfiW5Khsq-s
+- [WalkThrough link](https://youtu.be/qfiW5Khsq-s)
+
 - [github repo](https://github.com/RyanTheScholar/README-Generator)
 
 ## Description
