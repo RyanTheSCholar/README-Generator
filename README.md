@@ -27,12 +27,12 @@ Git clone in git bash to access this file locally through your system.
 
 ## features
 
-- ![JavaScript](https://img.shields.io/badge/100%-JavaScript-yellow)
+![JavaScript](https://img.shields.io/badge/100%-JavaScript-yellow)
 
 ## Questions
 
   - Ryan.business.bowen@gmail.com
   - [github](https://github.com/RyanTheScholar)
-  
+
 ## Tests
 N/A
