@@ -16,15 +16,23 @@ further notes about this application you may have to change the file path depend
   - [Credits](#credits)
   - [License](#license)
 ## Usage
+
   ![website](./images/pic.png)
+
 ## Installation
 Git clone in git bash to access this file locally through your system.
 ## License
+
   ![license](https://img.shields.io/badge/License-None-blue)
+
 ## features
-their is a video showing all the features and extra information anyone might need to know at the top of the readme.md.
+
+- ![JavaScript](https://img.shields.io/badge/100%-JavaScript-yellow)
+
 ## Questions
+
   - Ryan.business.bowen@gmail.com
   - [github](https://github.com/RyanTheScholar)
+  
 ## Tests
 N/A
