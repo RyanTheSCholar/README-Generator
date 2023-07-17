@@ -12,9 +12,30 @@ function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
+  console.log(data);
+  var license = data.license.split(" ").join("_");
   return `# ${data.title}
-
+## Description
+${data.description}
+## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+## Usage
+  ![website](../images/${data.usage})
+## Installation
+${data.installation}
+## License
+  ![license](https://img.shields.io/badge/License-${license}-blue)
+## features
+${data.features}
+## Questions
+  - ${data.email}
+  - [github](https://github.com/${data.credits})
+## Tests
+${data.tests}
 `;
 }
-generateMarkdown()
+// generateMarkdown()
 module.exports = generateMarkdown;

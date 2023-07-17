@@ -1,6 +1,4 @@
-# README-Generator
-![Youtube Video](https://youtu.be/qfiW5Khsq-s)
-
+# Ryans project
 ## Description
 This is for an example readme file just for the video.
 ## Table of Contents
