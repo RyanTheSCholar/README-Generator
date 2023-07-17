@@ -27,7 +27,7 @@ Git clone in git bash to access this file locally through your system.
 
 ## features
 
-![JavaScript](https://img.shields.io/badge/100%-JavaScript-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow)
 
 ## Questions
 
